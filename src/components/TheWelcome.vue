@@ -321,7 +321,7 @@
                         </div>
                         <h4 class="mb-3">L'Importance de la Cybersécurité pour les Entreprises Modernes</h4>
                         <p>La protection des données n'est plus une option, mais une nécessité pour les entreprises modernes...</p>
-                        <a class="text-uppercase" href="/detail">Lire plus <i class="bi bi-arrow-right"></i></a>
+
                     </div>
                 </div>
             </div>
@@ -338,7 +338,7 @@
                         </div>
                         <h4 class="mb-3">Gestion de Projet : Clés pour un Succès Assuré</h4>
                         <p>Un projet bien géré peut faire toute la différence entre un succès retentissant et un échec coûteux...</p>
-                        <a class="text-uppercase" href="/detail">Lire plus <i class="bi bi-arrow-right"></i></a>
+
                     </div>
                 </div>
             </div>
@@ -355,7 +355,7 @@
                         </div>
                         <h4 class="mb-3">Innover avec l'Intelligence Artificielle : Opportunités et Défis</h4>
                         <p>L'intelligence artificielle ouvre des portes à des innovations sans précédent...</p>
-                        <a class="text-uppercase" href="/detail">Lire plus <i class="bi bi-arrow-right"></i></a>
+
                     </div>
                 </div>
             </div>
