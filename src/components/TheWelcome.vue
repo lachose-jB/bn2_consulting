@@ -556,7 +556,7 @@ const sendEmail = async () => {
             </div>
             <div class="ps-4">
               <h5 class="mb-2">Email</h5>
-              <h4 class="text-primary mb-0">aseck@bn2consulting.fr</h4>
+              <h4 class="text-primary mb-0">comercial@bn2consulting.fr</h4>
             </div>
           </div>
         </div>
